@@ -1,2 +1,2 @@
-# PracticasBD
-Practicas del Modulo de Base de datos
+# Practicas lenguajes de programacion
+Practicas del Modulo de lenguajes de programacion
